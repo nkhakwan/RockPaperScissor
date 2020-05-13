@@ -1,5 +1,6 @@
 using System;
 using System.Collections.Generic;
+using RPSGame.Models;
 
 namespace RPSEntry
 {
@@ -7,7 +8,7 @@ namespace RPSEntry
   {
     public static void Main()
     {
-      // front end logic here
+      Game.GameStart();
     }
   }
 }
