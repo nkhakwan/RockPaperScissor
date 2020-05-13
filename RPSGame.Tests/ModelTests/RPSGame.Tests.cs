@@ -15,9 +15,12 @@ namespace Game.TestTools
   {
     // Arrange
     Game testOne = new Game("R");
+    testOne.FinalFunction();
 
     // Act
-    string userInput = testOne.GameStart
+    string userInput = GameStart.MyInput;
+
+    // Assert
   }
   }
 }
