@@ -12,11 +12,11 @@ namespace RPSGame.Models
       MyNumInput = myNumInput;
     }
 
-    // public void MyRandGen()
-    // {
-    //   Random rand = new Random();
-    //   TheNum = rand.Next(1,4);
-    // }
+    public void MyRandGen()
+    {
+      Random rand = new Random();
+      TheNum = rand.Next(1,4);
+    }
 
     
 

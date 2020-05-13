@@ -21,7 +21,7 @@ Install .NET. Type "dotnet run" in your console. Follow along.
 |Behavior|Input|Output|
 |-----|-----|-----|
 |User inputs a string "R", "S", or "P" to correlate with key-value pair.|"R"|"Rock"|
-|Program will generate random number between 1-3 to correlate with key-value pair|2|"paper"|
+|Program will generate random number between 1-3 to correlate with key-value pair|2|"scissor"|
 |Program will compare user input with generated value looking for match|("Rock" == "Paper")|False|
 |Program will determine who won that round|("Rock", "Paper"|"Paper Wins!"|
 
@@ -30,7 +30,7 @@ Install .NET. Type "dotnet run" in your console. Follow along.
 
 #### MIT License
 
-### Copyright (c) 2020 Tyler Bates & Ethan Firpo
+### Copyright (c) 2020 Tyler Bates & khan Sahab
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
